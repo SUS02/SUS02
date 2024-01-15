@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
- 🔭 I’m currently working on trying to understand quantum mechanincs :exploding_head:
  
 💬 Ask me about my pet birds 
 
